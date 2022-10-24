@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yvann</h1>
 <h3 align="center">Student Developper Fullstack</h3>
 
-<img align="right" alt="" width="400" src="https://pin.it/6uw7rUF">
+<img align="right" alt="" width="400" src="https://i.pinimg.com/originals/90/ad/3e/90ad3e208fedf89e9823f506756eee2e.gif">
 
 - 🔭 I’m currently working on **ESGI-SMASH**
 
