@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yvann</h1>
 <h3 align="center">Student Developper Fullstack</h3>
 
+<img align="right" alt="" width="400" src="https://pin.it/6uw7rUF">
+
 - 🔭 I’m currently working on **ESGI-SMASH**
 
 - 🌱 I’m currently learning **Javascript**
