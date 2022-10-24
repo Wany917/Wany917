@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🤝 I’m looking for help to get started with **Vue.JS**
+- 🙌🏾 I’m looking for help to get started with **Vue.JS**
 
-- 👨‍💻 All of my projects are available at [soon..](soon..)
+- 👨🏾‍💻 All of my projects are available at [soon..](soon..)
 
 - 📫 How to reach me **yvannkakou03@gmail.com**
 
