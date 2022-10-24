@@ -5,7 +5,7 @@
 <img align="center" alt="" width="1300" src="https://i.pinimg.com/originals/90/ad/3e/90ad3e208fedf89e9823f506756eee2e.gif">
 <h2 align="center">Student Developper Fullstack</h2>
 
-
+<img src="https://user-images.githubusercontent.com/91730578/197519653-d5739bd3-4dfe-4a15-bb8c-a6fa381244c7.svg" >
 
 - 🔭 I’m currently working on **ESGI-SMASH**
 
