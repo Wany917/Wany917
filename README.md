@@ -17,8 +17,9 @@
 
 - 📫 How to reach me **yvannkakou03@gmail.com**
 
-- ⚡  Fun fact **I have a bankai**
 - 📝 Check my cv [cv.pdf](https://github.com/Wany917/Wany917/files/10102358/cv.pdf)
+
+- ⚡  Fun fact **I have a bankai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
