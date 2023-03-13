@@ -15,16 +15,13 @@
 
 - 👨🏾‍💻 All of my projects are available at [soon..](soon..)
 
-- 📫 How to reach me **yvannkakou03@gmail.com**
-
-- 📝 Check my cv [kmarceau-cv.pdf](https://github.com/Wany917/Wany917/files/10383233/kmarceau-cv.pdf)
-
+- 📫 How to reach me **flackoo.work@gmail.com**
 
 - ⚡  Fun fact **I have a bankai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marceau-kakou-9324b2214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marceau-kakou-9324b2214/" height="30" width="40" /></a>
+
   <a href="https://discord.gg/子’Serkvii#1116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="子’F̶l̶a̶c̶k̶o̶#6575" height="40" width="50" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
