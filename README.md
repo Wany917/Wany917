@@ -7,11 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/91730578/197519653-d5739bd3-4dfe-4a15-bb8c-a6fa381244c7.svg" >
 
-- 🔭 I’m currently working on **ESGI-SMASH**
-
-- 🌱 I’m currently learning **Javascript**
-
-- 🙌🏾 I’m looking for help to get started with **Vue.JS**
+- 🔭 I’m currently working on **haloagency.fr**
 
 - 👨🏾‍💻 All of my projects are available at [soon..](soon..)
 
