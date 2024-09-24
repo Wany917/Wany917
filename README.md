@@ -11,7 +11,7 @@
 
 - 👨🏾‍💻 All of my projects are available at [soon..](soon..)
 
-- 📫 How to reach me **flackoo.work@gmail.com**
+- 📫 How to reach me **kakou.work@gmail.com**
 
 - ⚡  Fun fact **I have a bankai**
 
